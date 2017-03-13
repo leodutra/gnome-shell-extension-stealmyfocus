@@ -11,7 +11,7 @@
     "3.20.2",
     "3.21",
     "3.22",
-    "3.22.2"
+    "3.22.*"
   ],
   "url": "https://github.com/v-dimitrov/gnome-shell-extension-stealmyfocus",
   "uuid": "focus-my-window@varianto25.com",
